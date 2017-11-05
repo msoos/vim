@@ -23,6 +23,7 @@ set number              " display line numbers
 let mapleader=","       " the <leader> now becomes ,
 set ignorecase
 set smartcase
+set mouse=a
 
 " this is mostly a matter of taste. but LaTeX looks good with just a bit
 " of indentation.
